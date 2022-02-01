@@ -8,3 +8,7 @@
 - Report an issue 🚩
 - Feedback ☹️ 😐 🙂
 - Feature idea 💡
+
+Click on Issues, then click "New issue"
+
+Thanks for your feedback...
